@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[CG_Owl]]></title>
+        <description><![CDATA[CG_Owl]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 10 Feb 2016 19:39:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Zodd the Immortal]]></title>
+            <description><![CDATA[<article><h1>Zodd the Immortal</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd82624c2b6fa36d26bdb01218a556607db24332.jpg"></article>]]></description>
+            <link>undefinedzodd-the-immortal/index.html</link>
+            <guid isPermaLink="false">cee6d338-3164-4b54-81ac-3a2f97be6bf3</guid>
+            <pubDate>Wed, 10 Feb 2016 19:38:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

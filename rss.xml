@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Digital sculptor ]]></title>
-        <description><![CDATA[Digital sculptor ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Guillaume Vanson Portfolio ]]></title>
+        <description><![CDATA[Guillaume Vanson Portfolio ]]></description>
+        <link>https://thegrid.ai/cg_owl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 21:46:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Feb 2016 22:00:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cg_owl/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Zodd the Immortal </p>]]></description>
+            <link>https://thegrid.ai/cg_owl/689927a0-e1fb-44bc-927c-3e4df39802d3/index.html</link>
+            <guid isPermaLink="false">689927a0-e1fb-44bc-927c-3e4df39802d3</guid>
+            <pubDate>Wed, 10 Feb 2016 22:00:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[1/4 Guts bust resin kit ]]></title>
-            <description><![CDATA[<article><h1>1/4 Guts bust resin kit </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/27a944df8e17fda1c89ccd6ac16e871107793dd1.jpg"></article>]]></description>
-            <link>undefined8234f869-2a8c-4239-8552-dc2730dbf60a/index.html</link>
+            <description><![CDATA[<article><h1>1/4 Guts bust resin kit </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f6fe924359eef60e5f32e708967f7d70cb6f56ec.jpg"></article>]]></description>
+            <link>https://thegrid.ai/cg_owl/8234f869-2a8c-4239-8552-dc2730dbf60a/index.html</link>
             <guid isPermaLink="false">8234f869-2a8c-4239-8552-dc2730dbf60a</guid>
             <pubDate>Wed, 10 Feb 2016 21:45:19 GMT</pubDate>
         </item>

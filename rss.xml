@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[CG_Owl]]></title>
         <description><![CDATA[CG_Owl]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cg_owl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 19:39:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Feb 2016 19:44:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cg_owl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Zodd the Immortal]]></title>
-            <description><![CDATA[<article><h1>Zodd the Immortal</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd82624c2b6fa36d26bdb01218a556607db24332.jpg"></article>]]></description>
-            <link>undefinedzodd-the-immortal/index.html</link>
+            <description><![CDATA[<article><h1></h1><p>Zodd the Immortal </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8d41f537b0be6fea7dc6268fd02a0849246ebf2.jpg"></article>]]></description>
+            <link>https://thegrid.ai/cg_owl/zodd-the-immortal/index.html</link>
             <guid isPermaLink="false">cee6d338-3164-4b54-81ac-3a2f97be6bf3</guid>
-            <pubDate>Wed, 10 Feb 2016 19:38:56 GMT</pubDate>
+            <pubDate>Wed, 10 Feb 2016 19:43:54 GMT</pubDate>
         </item>
     </channel>
 </rss>

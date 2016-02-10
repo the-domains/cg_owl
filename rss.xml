@@ -4,8 +4,15 @@
         <description><![CDATA[Guillaume Vanson Portfolio ]]></description>
         <link>https://thegrid.ai/cg_owl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 22:59:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Feb 2016 23:02:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cg_owl/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Zodd the Immortal]]></title>
+            <description><![CDATA[<article><h1>Zodd the Immortal</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/add0edb7c129ee9c92108b8522c0f8451445631b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/cg_owl/zodd-the-immortal/index.html</link>
+            <guid isPermaLink="false">c0727238-97b5-4478-9693-bfeaeabbc38e</guid>
+            <pubDate>Wed, 10 Feb 2016 23:02:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Gray Fox]]></title>
             <description><![CDATA[<article><h1>Gray Fox</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a468225ef29a96518273586010cc02d3e7bea28b.jpg"></article>]]></description>

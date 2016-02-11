@@ -4,8 +4,15 @@
         <description><![CDATA[Guillaume Vanson Portfolio ]]></description>
         <link>https://thegrid.ai/cg_owl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 23:02:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2016 00:46:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cg_owl/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tyrion Lannister]]></title>
+            <description><![CDATA[<article><h1>Tyrion Lannister</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/307557b8f513f7c0a00a120a7bd613dd5ef6e3bc.jpg"></article>]]></description>
+            <link>https://thegrid.ai/cg_owl/tyrion-lannister/index.html</link>
+            <guid isPermaLink="false">7c40cfa0-b92b-4c5f-8ffd-e75cd21f1a3b</guid>
+            <pubDate>Thu, 11 Feb 2016 00:46:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Zodd the Immortal]]></title>
             <description><![CDATA[<article><h1>Zodd the Immortal</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/add0edb7c129ee9c92108b8522c0f8451445631b.jpg"></article>]]></description>

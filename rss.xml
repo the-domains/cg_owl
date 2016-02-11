@@ -4,8 +4,15 @@
         <description><![CDATA[Guillaume Vanson Portfolio ]]></description>
         <link>https://thegrid.ai/cg_owl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 00:46:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2016 01:04:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cg_owl/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cobra & Dominique]]></title>
+            <description><![CDATA[<h1>Cobra & Dominique</h1>]]></description>
+            <link>https://thegrid.ai/cg_owl/cobra-and-dominique/index.html</link>
+            <guid isPermaLink="false">3968c5e3-60a8-4213-85ca-c91acc5956aa</guid>
+            <pubDate>Thu, 11 Feb 2016 01:03:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tyrion Lannister]]></title>
             <description><![CDATA[<article><h1>Tyrion Lannister</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/307557b8f513f7c0a00a120a7bd613dd5ef6e3bc.jpg"></article>]]></description>

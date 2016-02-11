@@ -4,8 +4,15 @@
         <description><![CDATA[Guillaume Vanson Portfolio ]]></description>
         <link>https://thegrid.ai/cg_owl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 01:23:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2016 16:10:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cg_owl/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Face study]]></title>
+            <description><![CDATA[<h1>Face study</h1>]]></description>
+            <link>https://thegrid.ai/cg_owl/face-study/index.html</link>
+            <guid isPermaLink="false">439f02b4-3382-4f3a-a4c9-0ba134cd39df</guid>
+            <pubDate>Thu, 11 Feb 2016 16:09:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Resting.]]></title>
             <description><![CDATA[<article><h1>Resting.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8082a318a787cc3dad78428c143c9e5d62792b17.jpg"></article>]]></description>
